@@ -5,7 +5,7 @@
   font-family: "IBM Plex mono", serif;
   font-size: var(--text-size-main);
   background-color: var(--background-color, rgb(0, 24, 63));
-  background-image: var(--background, url(/images/cover-image-dark.png));
+  background-image: var(--background, url(../images/cover-image-dark.png));
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
