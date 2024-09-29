@@ -135,7 +135,7 @@
   gap: calc(2 * var(--main-gap));
 }
 
-.section-why .title-decor{
+.section-why .title-decor {
   margin-block-end: 10px;
 }
 
